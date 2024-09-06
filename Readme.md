@@ -1,8 +1,11 @@
 ## Installation
 install python [link](https://diveintopython.org/learn/install) \
 then download this repository. \
-1. Using 
-
+1. Using git
+```bash
+git clone https://github.com/mihasicehcek/docx-file-generator.git
+```
+2. Download zip [link](https://github.com/mihasicehcek/docx-file-generator/archive/refs/heads/main.zip)
 ```bash
 pip install -r requirements.txt
 ```
